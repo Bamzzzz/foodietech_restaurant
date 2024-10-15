@@ -1,4 +1,4 @@
-# foodietech_restaurant
+# Foodie_restaurant
 Final Portfolio Project: this is a Portfolio Project for Holberton School done by Adewumi Ayobami
 # Foodietech_restaurant![Capture 1](https://github.com/Bamzzzz/foodietech_restaurant/assets/138697671/757cf3c2-7b89-4003-8cf0-8128cd9925e9)
 Responsive Restaurant website using Html, Css and JavaScript
